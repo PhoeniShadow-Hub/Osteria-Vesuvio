@@ -62,7 +62,7 @@ body {
 }
 
 .nav-bar.scrolled {
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.502);
 }
 
 .nav-links {
@@ -74,7 +74,7 @@ body {
     font-family: 'Cormorant Garamond', serif;
     font-size: 22px;
     font-weight: 500;
-    color: #fff;
+    color: #e60808;
     letter-spacing: 3px;
 }
 
